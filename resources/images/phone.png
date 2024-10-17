@@ -1,0 +1,11 @@
+--2024-10-18 01:12:11--  https://content.codecademy.com/programs/freelance-one/excursion/images/phone.png
+Визначення назви content.codecademy.com (content.codecademy.com)... 104.17.184.120, 104.17.183.120
+Встановлення з'єднання з content.codecademy.com (content.codecademy.com)|104.17.184.120|:443... з’єднано.
+HTTP-запит надіслано, очікуємо на відповідь… 200 OK
+Довжина: 816 [image/png]
+Зберігаємо до `phone.png'
+
+     0K                                                       100% 6,65M=0s
+
+2024-10-18 01:12:11 (6,65 MB/s) - `phone.png' збережено [816/816]
+
